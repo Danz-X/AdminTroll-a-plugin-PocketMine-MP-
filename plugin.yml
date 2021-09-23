@@ -2,9 +2,9 @@
 name: AdminTroll
 main: Swourire\AdminTroll\Main
 version: 1.2.0
-api: 3.9.0
+api: 3.23.1
 mcpe-protocol:
- - 361
+ - 465
  - 362
  - 363
  - 364
